@@ -1,0 +1,2 @@
+This is Assignment 2 Exercise 2
+Node js file system copy and delete operation
